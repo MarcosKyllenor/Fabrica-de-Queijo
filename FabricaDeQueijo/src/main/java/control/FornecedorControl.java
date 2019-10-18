@@ -12,8 +12,9 @@ import model.Fornecedor;
  * @author herve
  */
 public class FornecedorControl {
-    public boolean salvar(Fornecedor f){
-        
+
+    public boolean salvar(Fornecedor f) {
+
         return false;
     }
 }
